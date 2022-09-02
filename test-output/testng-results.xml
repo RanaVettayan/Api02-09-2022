@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="116" started-at="2022-09-01T05:43:34Z" finished-at="2022-09-01T05:43:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="116" started-at="2022-09-01T05:43:34Z" finished-at="2022-09-01T05:43:34Z">
+      <class name="typesOfVariable.sample">
+        <test-method status="PASS" signature="t01()[pri:0, instance:typesOfVariable.sample@59e84876]" name="t01" duration-ms="43" started-at="2022-09-01T11:13:34Z" finished-at="2022-09-01T11:13:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t01 -->
+        <test-method status="PASS" signature="t02()[pri:0, instance:typesOfVariable.sample@59e84876]" name="t02" duration-ms="4" started-at="2022-09-01T11:13:34Z" finished-at="2022-09-01T11:13:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t02 -->
+      </class> <!-- typesOfVariable.sample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
