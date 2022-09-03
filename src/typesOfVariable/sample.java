@@ -12,6 +12,7 @@ public class sample {
 			
 		}
 		System.out.println(res);
+		System.out.println(res);
 		
 	}
 	
